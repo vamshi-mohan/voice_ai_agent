@@ -1,0 +1,12 @@
+whisper
+sounddevice
+numpy
+scipy
+gTTS
+openai
+requests
+tqdm
+transformers
+torch
+huggingface-hub
+python-dotenv
