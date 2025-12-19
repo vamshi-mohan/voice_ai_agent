@@ -4,7 +4,6 @@ from typing import List
 from tools.eligibility import check_eligibility
 from tools import mock_api
 from llm_client import LLMClient
-
 SCHEMES_PATH = os.path.join(os.path.dirname(__file__), "schemes", "data_te.json")
 
 class Agent:
