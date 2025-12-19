@@ -43,4 +43,3 @@ Files
 - `memory.py`: persistent conversation memory
 - `schemes/data_te.json`: sample Telugu schemes
 
-If you want me to run the demo here, tell me and I'll attempt to run a short end-to-end test (I may need network and model downloads).
